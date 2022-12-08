@@ -1,5 +1,5 @@
 /* Assignment: 1.1
-Author: Emil Abdumalikov, ID: 323222083
+Author: Emil , ID: *********
 */
 
 #define _CRT_SECURE_NO_WARNINGS
